@@ -19,4 +19,3 @@ var marker = L.circleMarker([34.0522, -118.2437], {
     color: 'black',
     fillColor: '#ffffa1'
  }).addTo(map);
-//var marker = L.marker([34.0522, -118.2437]).addTo(map);
